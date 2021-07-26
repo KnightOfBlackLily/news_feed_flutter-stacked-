@@ -1,2 +1,2 @@
-# news_feed_flutter-stacked-
+# News Feed Flutter (Stacked)
 Use newsapi.org
